@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $("body").append("<div class='container'> aaa </div>");
+  $("body").append("<div class='container'> TimmX97 Etch a Sketch! </div>");
   $(".container").append("<table class='grid'></table>");
   $(".grid").css("height", "480px");
   $(".grid").css("width", "480px");
